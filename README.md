@@ -9,7 +9,7 @@ Create a Request Header Parser api that when you make a request to `/api/whoami`
 -   IP address in the `ipaddress` key.
 -   Preferred language in the `language` key.
 -   Software in the `software` key.
-    **[Learn more about the Project Task.]([https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice)**
+    **[Learn more about the Project Task.](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice)**
 
 ### Implementation
 
